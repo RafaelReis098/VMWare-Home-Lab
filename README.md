@@ -26,6 +26,8 @@ For this lab, I've chosen a PC with the following specifications:
 
 I didn't feel like using a dedicated server or an old laptop beacsue the ones I had did not meet the VM requirements (8GB RAM minimum, preferably 16GB).
 
+![Homelab Image]((https://static.wixstatic.com/media/1f97f7_c3819a585fb44cc896e93c99d512ba1a~mv2.jpg/v1/fill/w_740,h_496,al_c,q_90/1f97f7_c3819a585fb44cc896e93c99d512ba1a~mv2.webp))
+
 ### Downloading & Installing VMware Workstation Pro
 
 I've opted for VMware Workstation 17 (Non-Commercial) as my hypervisor for this lab. Alternatively, I could have used VirtualBox because it is a free and feature-rich alternative from Oracle, but I heard it has a reputation for crashing.
